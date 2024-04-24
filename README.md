@@ -8,11 +8,11 @@ sdk_version: 4.26.0
 app_file: app.py
 pinned: false
 ---
-I will link to my space when completed so you can just duplicate the space and select the paid hardware Nvidia T4 small is 
-the smallest GPU HuggingFace offers which is $0.40/hour charging each minute of uptime regardless of GPU usage unless you pause the space.
+I will link to my space when completed so you can just duplicate the space, it should stay running for days so & is free so no auto pausing/ inactivity sleep needed.
 
-I will also upload a HuggingFace CPU branch that will be free but is much slower 🤮
-![LipSick Logo](/utils/logo/HuggingFacePrices.jpg)
+This is free but is much slower than the GPU branch, an alternative if you are broke from donating all your money to this project will be to use my 
+upcoming Google Collab which has free GPU usage but can have user limits with a long reset time 🤮
+
 ![LipSick Logo](/utils/logo/LipSick_bg.jpg)
 
 ### To-Do List
