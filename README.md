@@ -8,7 +8,7 @@ sdk_version: 4.26.0
 app_file: app.py
 pinned: false
 ---
-I will link to my space when completed so you can just duplicate the space, it should stay running for days so & is free so no auto pausing/ inactivity sleep needed.
+I will link to my space when completed so you can just duplicate the space, it should stay running for days & is free so no auto pausing/ inactivity sleep needed.
 
 This is free but is much slower than the GPU branch, an alternative if you are broke from donating all your money to this project will be to use my 
 upcoming Google Collab which has free GPU usage but can have user limits with a long reset time 🤮
