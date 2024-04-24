@@ -10,7 +10,7 @@ pinned: false
 ---
 I will link to my space when completed so you can just duplicate the space, it should stay running for days & is free so no auto pausing/ inactivity sleep needed.
 
-This is free but is much slower than the GPU branch, an alternative if you are broke from donating all your money to this project will be to use my 
+This is free but is much slower than the [GPU](https://huggingface.co/spaces/Inferencer/LipSick) branch, an alternative if you are broke from donating all your money to this project will be to use my 
 upcoming Google Collab which has free GPU usage but can have user limits with a long reset time 🤮
 
 ![LipSick Logo](/utils/logo/LipSick_bg.jpg)
@@ -27,7 +27,6 @@ upcoming Google Collab which has free GPU usage but can have user limits with a 
 - [ ] Reintroduce persistent folders for frame extraction as an option with existing frame checks for faster extraction on commonly used videos. 😷
 - [ ] Provide HuggingFace space CPU (free usage but slower). 😷
 - [ ] Provide Google Colab .IPYNB. 😷
-- [ ] Provide HuggingFace space GPU. 😷
 - [ ] Add support for Linux. 🤢
 - [ ] Release Tutorial on manual masking using DaVinci. 😷
 - [ ] Looped original video generated as an option for faster manual masking. 😷
@@ -38,6 +37,7 @@ upcoming Google Collab which has free GPU usage but can have user limits with a 
 - [ ] Upload cherry picked input footage for user download & use.
 - [ ] Create a Discord to share results, faster help, suggestions & cherry picked input footage.
 - [ ] Upload results footage montage to GitHub so new users can see what LipSick is capable of.
+- [x] Provide HuggingFace space GPU. 🤮
 - [x] Remove warning messages in command prompt that don't affect performance. 🤢
 - [x] Moved frame extraction to temp folders. 🤮
 - [x] Results with the same input video name no longer overwrite existing results. 🤮
